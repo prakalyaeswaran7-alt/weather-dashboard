@@ -18,7 +18,7 @@ A simple and responsive Weather Dashboard that displays real-time weather inform
 
 ## Live Demo
 
-https://yourusername.github.io/weather-dashboard/
+https://prakalyaeswaran7-alt.github.io/weather-dashboard/
 
 ## Author
 
